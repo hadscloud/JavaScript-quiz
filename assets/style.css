@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background: #EDBB99;
+}
+
+main {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+#container {
+    width: 700px;
+    background-color: #F3E9D4;
+    border-radius: 5px;
+    padding: auto;
+    box-shadow: 0 0 10px 2px;
+    margin: auto;
+}
+#quizBody {
+    text-align: center;
+    justify-content: center;
+    padding: 12vh;
+    margin-top: 20px;
+    padding: auto;
+}
+button {
+    border: none;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 5px;
+    padding: 10px 16px 10px 16px;
+    font-size: 17px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 15px 15px 15px 15px;
+}
+
+button:hover {
+    transition-duration: 0.4s;
+    background-color: #DC7633;
+}
+
+h1 {
+    font-weight: 100;
+    padding: 5px;
+}
+
+h3 {
+    font-weight: 75;
+}
