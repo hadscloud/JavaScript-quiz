@@ -2,7 +2,7 @@
 This project is to create a timed quiz on JavaScript fundamentals
 
 ## Description 
-In this project I will be creating a quiz web application from scratch. This project will be a short, 5 question timed quiz on simple Javascript consepts.
+In this project I will be creating a quiz web application from scratch. This project will be a short, 5 question timed quiz on simple Javascript concepts.
 
 ## User Story 
 
